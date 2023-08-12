@@ -112,7 +112,7 @@ Material:
     - _DisplaceAmount: 1.5
     - _DissolveAmount: 0.6
     - _DissolveScale: 30
-    - _DissolveSpeed: 0.5
+    - _DissolveSpeed: 1
     - _DstBlend: 0
     - _EdgeSize: 0.2
     - _EnvironmentReflections: 1
